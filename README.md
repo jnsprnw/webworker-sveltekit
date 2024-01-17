@@ -1,5 +1,7 @@
 # Web Worker in Sveltekit
 
+Find a live version on [Netlify](https://webworker-sveltekit.netlify.app/).
+
 This is a simple setup that demonstrates the use of [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) in Sveltekit. Most parts apply to any framework.
 
 Web workers allow you to run a task in a separate process from the rest of the website. This prevents the website from hanging and not allowing any user interaction.
